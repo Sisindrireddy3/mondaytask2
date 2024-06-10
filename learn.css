@@ -1,0 +1,113 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    text-decoration: none;
+}
+.container{
+    height:1050px;
+    width: 100%;
+    background: linear-gradient(green,white,blue);
+
+
+
+}
+ .heading{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 50px;
+}
+.course1{
+    height: 300px;
+    width: 350px;
+    background-color: bisque;  
+    border-radius: 20px;
+    margin: 25px;    
+}
+.s1{
+    text-align: center;
+    margin-top: 25px;
+    h3{
+        margin-top: 5px;
+    }
+}
+.course2{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(201, 45, 136);
+    border-radius: 20px;
+    margin: 25px;
+}
+.s2{
+    text-align: center;
+    margin-top: 25px;
+}
+.course3{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(115, 190, 190);
+    border-radius: 20px;
+    margin: 25px;
+
+}
+.s3{
+    text-align: center;
+    margin-top: 25px;
+}
+.course4{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(156, 154, 14);
+    border-radius: 20px;
+    margin-left: 110px;
+    margin: 25px;
+
+}
+.s4{
+    text-align: center;
+    margin-top: 25px;
+}
+.course5{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(97, 150, 81);
+    border-radius: 20px;
+    margin: 25px;
+
+}
+.s5{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.course6{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(16, 106, 158); 
+    border-radius: 20px;
+    margin: 25px;
+
+}
+.s6{
+    text-align: center;
+    margin-top: 25px;
+}
+.nav1{
+    padding-top: 80px;
+    display: flex;
+    margin-left: 50px;   
+}
+.nav2{
+    padding-top: 60px;
+    display: flex;
+    margin-left: 50px;
+}
+button{
+    margin-top: 20px;
+    height: 25px;
+    width: 90px;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+}
